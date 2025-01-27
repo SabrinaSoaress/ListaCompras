@@ -150,3 +150,15 @@ ul {
 .container-lista {
     width: 100%;
 }
+
+.lista-item-container {
+    display: flex;
+    align-items: center; 
+}
+
+.btn-excluir {
+    margin-right: 10px;
+    color: red;
+    border: none;
+    cursor: pointer;
+}
